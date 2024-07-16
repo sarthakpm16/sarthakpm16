@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me: @sarthakpm16 (instagram)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Matcha
+- ⚡ Fun fact: Matcha🍵
 
 <!---
 sarthakpm16/sarthakpm16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
