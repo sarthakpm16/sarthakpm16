@@ -4,7 +4,7 @@
 - 📫 How to reach me: @sarthakpm16 (instagram)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Matcha🍵
-- founding klinn and skoutd:
+- 🏥💻👨‍🎓building klinn  
 
 <!---
 sarthakpm16/sarthakpm16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
