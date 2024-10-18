@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sarthakpm16
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me: @sarthakpm16 (instagram)
-- 😄 Pronouns: he/him
+- 🌱Learning Java and Python
+- Improving HTML/CSS skills, ditching javascript :) 
 - ⚡ Fun fact: Matcha🍵
 - 🏥💻👨‍🎓building klinn  
 
