@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Sarthak👋</h1>
 <b><p align="center">
-<a href="https://github.com/sarthakpm16/resume/blob/main/Sarthak%20Harvard%20Resume.docx%20(1).pdf">My Resume</a>
+<a href="https://github.com/sarthakpm16/resume/blob/main/Sarthak%20Harvard%20Resume.docx%20(1).pdf">My Resume</a> | Looking for a summer 2025 internship
 </p>
 </b>
 
