@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarthakpm16
 - 🌱Learning Java and Python
-- Improving HTML/CSS skills, ditching javascript :) 
+- Improving HTML/CSS skills, ditching javascript (jk) :) 
 - ⚡ Fun fact: Matcha🍵
 - 🏥💻👨‍🎓building klinn (https://klinn.works), @klinnworks on  instagram, @klinn on LinkedIn
 
