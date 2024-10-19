@@ -21,9 +21,9 @@
 - I'm interested in finance, economics, education, and law
 - Passionate about all things startups and entrepreneurship
 - Fun fact: I love Matcha 🍵⚡
-- I speak 4 different languages: english, hindi, bangla, and I'm learning spanish
+- I speak 4 different languages: English, Hindi, Bangla, and I'm learning Spanish
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakpm16&langs_count=4&layout=pie)](https://github.com/sarthakpm16)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakpm16&langs_count=5&layout=pie)](https://github.com/sarthakpm16)
 
  
  <!---
