@@ -22,7 +22,6 @@
 - Passionate about all things startups or entrepreneurship
 - ⚡ Fun fact: I love Matcha 🍵
 - I speak 4 different languages
-- 
 
 <!---
 sarthakpm16/sarthakpm16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
