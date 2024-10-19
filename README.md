@@ -24,8 +24,6 @@
 - I speak 4 different languages
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakpm16)](https://github.com/sarthakpm16) 
-
 
 <!---
 sarthakpm16/sarthakpm16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
