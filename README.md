@@ -16,11 +16,11 @@
 - Improving HTML/CSS skills, ditching javascript (jk) 
 - After learning Java and Python, I wanna learn reactjs, nextjs, and tailwind CSS
 
-<h2>Interests and Fun Facts 🍵</h2>
+<h2>Interests and Fun Facts 🧋</h2>
 
 - I'm interested in finance, economics, education, and law
-- Passionate about all things startups or entrepreneurship
-- ⚡ Fun fact: I love Matcha 🍵
+- Passionate about all things startups and entrepreneurship
+- Fun fact: I love Matcha 🍵⚡
 - I speak 4 different languages
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakpm16&layout=pie)](https://github.com/sarthakpm16)
