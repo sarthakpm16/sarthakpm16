@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Sarthak👋</h1>
 <b><p align="center">
-<a href="https://github.com/sarthakpm16/resume/blob/main/Sarthak%20Harvard%20Resume.docx%20(1).pdf">My Resume</a> | Looking for a summer 2025 internship
+Looking for a summer 2025 internship
 </p>
 </b>
 
@@ -8,7 +8,7 @@
 
 - 🏥💻Co-Founder/CEO building klinn (https://klinn.works), @klinnworks on  instagram, @klinn on LinkedIn; klinn is for premeds and anyone interested in medicine, but really its for anyone who wants to get into a good school! check it out :)
  
- - looking for a summer '25 internship at a startup (in any industry) based in the DMV **or** at a financial services firm (investment banking, financial advising/planning, consulting, accounting, or anyone else who'll give me chance haha) - if interested see resume linked above
+ - looking for a summer '25 internship at a startup (in any industry) based in the DMV **or** at a financial services firm (investment banking, financial advising/planning, consulting, accounting, or anyone else who'll give me chance haha) 
 
  <h2>Languages 🤓</h2> 
  
