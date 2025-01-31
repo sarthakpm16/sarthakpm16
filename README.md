@@ -13,6 +13,7 @@ Looking for a summer 2025 internship | https://sarthakpm16.github.io/personalweb
 <h2>Interests and Fun Facts 🧋</h2>
 
 - I'm interested in finance, economics, education, and law
+- Learning React/Nextjs
 - Passionate about all things startups and entrepreneurship
 - Fun fact: I love Matcha 🍵⚡
 - I speak 4 different languages: English, Hindi, Bangla, and I'm learning Spanish
