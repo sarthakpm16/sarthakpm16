@@ -8,8 +8,6 @@ Looking for a summer 2025 internship | https://sarthakpm16.github.io/personalweb
 
 - 🏥💻Co-Founder/CEO building klinn (https://klinn.works), @klinnworks on  instagram, @klinn on LinkedIn; klinn is for premeds and anyone interested in medicine, but really its for anyone who wants to get into a good school! check it out :)
  
- - looking for a summer '25 internship at a startup (in any industry)
-
 <h2>Interests and Fun Facts 🧋</h2>
 
 - I'm interested in finance, economics, education, and law
