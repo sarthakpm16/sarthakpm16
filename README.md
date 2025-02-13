@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Sarthak👋</h1>
 <b><p align="center">
-Looking for a summer 2025 internship | https://sarthakpm16.github.io/personalwebsite/
+https://sarthakpm16.github.io/personalwebsite/
 </p>
 </b>
 
