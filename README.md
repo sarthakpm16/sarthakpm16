@@ -6,7 +6,7 @@ Looking for a summer 2025 internship | https://sarthakpm16.github.io/personalweb
 
 <h2>Experience 👨‍🎓</h2>
 
-- 🏥💻Co-Founder/CEO building klinn (https://klinn.works), @klinnworks on  instagram, @klinn on LinkedIn; klinn is for premeds and anyone interested in medicine, but really its for anyone who wants to get into a good school! check it out :)
+- 🏥💻Co-Founder/CEO building klinn (https://klinn.works), @klinnworks on  instagram, @klinn on LinkedIn; klinn is for premeds and anyone interested in healthcare/research! check it out :)
  
 <h2>Interests and Fun Facts 🧋</h2>
 
