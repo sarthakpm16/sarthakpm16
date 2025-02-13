@@ -6,7 +6,7 @@ https://sarthakpm16.github.io/personalwebsite/
 
 <h2>Experience 👨‍🎓</h2>
 
-- 🏥💻Co-Founder/CEO building klinn (https://klinn.works), @klinnworks on  instagram, @klinn on LinkedIn; klinn is for premeds and anyone interested in healthcare/research! check it out :)
+- 🏥💻Founder building klinn (https://klinn.works), @klinnworks on  instagram, @klinn on LinkedIn; klinn is for premeds and anyone interested in healthcare/research! check it out :)
  
 <h2>Interests and Fun Facts 🧋</h2>
 
