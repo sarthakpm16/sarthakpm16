@@ -16,7 +16,7 @@ https://sarthakpm16.github.io/personalwebsite/
 - Fun fact: I love Matcha 🍵⚡
 - I speak 4 different languages: English, Hindi, Bangla, and I'm learning Spanish
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakpm16&langs_count=6&layout=pie)](https://github.com/sarthakpm16)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakpm16&langs_count=7&layout=pie)](https://github.com/sarthakpm16)
 
  
  <!---
