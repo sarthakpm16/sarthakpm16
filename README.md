@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Sarthak👋</h1>
 <b><p align="center">
-https://sarthakpm16.github.io/personalwebsite/
+https://sarthathak.vercel.app
 </p>
 </b>
 
@@ -10,7 +10,7 @@ https://sarthakpm16.github.io/personalwebsite/
  
 <h2>Interests and Fun Facts 🧋</h2>
 
-- I'm interested in finance, economics, education, and law
+- I'm interested in finance, economics, education, and tech
 - Learning React/Nextjs
 - Passionate about all things startups and entrepreneurship
 - Fun fact: I love Matcha 🍵⚡
