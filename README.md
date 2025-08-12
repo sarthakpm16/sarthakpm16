@@ -6,12 +6,12 @@ https://sarthathak.vercel.app
 
 <h2>Experience 👨‍🎓</h2>
 
-- 🏥💻Founder building klinn (https://klinn.works), @useklinn on  instagram, @klinn on LinkedIn; klinn is for premeds and anyone interested in healthcare/research! check it out :)
+- 💻Founder building klinn (https://klinn.works), @useklinn on  instagram, @klinn on LinkedIn; klinn is for students who want to send cold emails quicker to get internships! check it out :)
+- Content Creator. I post short-form content on Instagram, LinkedIn, TikTok, YouTube, and X. I have ~3M impressions/views and thousands of followers
  
 <h2>Interests and Fun Facts 🧋</h2>
 
-- I'm interested in finance, economics, education, and tech
-- Learning React/Nextjs
+- Interested in finance, economics, education, and tech
 - Passionate about all things startups and entrepreneurship
 - Fun fact: I love Matcha 🍵⚡
 - I speak 4 different languages: English, Hindi, Bangla, and I'm learning Spanish
