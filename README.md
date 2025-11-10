@@ -6,8 +6,8 @@ https://sarthathak.vercel.app
 
 <h2>Experience 👨‍🎓</h2>
 
-- 💻Founder building klinn (https://klinn.works), @useklinn on  instagram, @klinn on LinkedIn; klinn is for students who want to send cold emails quicker to get internships! check it out :)
-- Content Creator. I post short-form content on Instagram, LinkedIn, TikTok, YouTube, and X. I have ~3M impressions/views and thousands of followers
+- 💻Founder building klinn (https://klinn.works), @useklinn on  instagram, @klinn on LinkedIn; klinn pre-vets students to intern in growth, gtm, and marketing at startups! check it out :)
+- Content Creator. I post short-form content on Instagram, LinkedIn, TikTok, YouTube, and X.
  
 <h2>Interests and Fun Facts 🧋</h2>
 
